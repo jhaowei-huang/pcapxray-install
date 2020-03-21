@@ -11,10 +11,12 @@ Linux, Windows, MaxOS 中，安裝與使用 [Srinivas11789/PcapXray](https://git
 > 建議使用 [`Python3.7.7 - Windows x86-64 executable installer`](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)
 ![img](https://i.imgur.com/vNUSUlf.png)
 
-> 請勾選 `Python add to PATH` 選擇 `Customize installation` 
+> 請勾選 `Python add to PATH` 選擇 `Customize installation` <br>
 ![img](https://i.imgur.com/0bZ9CQP.png)
-> 請勾選 `安裝 pip` 與 `安裝 td/tk and IDLE`
+> 請勾選 `安裝 pip` 與 `安裝 td/tk and IDLE` <br>
 ![img](https://i.imgur.com/kED27ZE.png)
+> 可自行修改安裝路徑，其他安裝選項建議參照下圖 <br>
+![img](https://i.imgur.com/oX3jkhl.png)
 
 2. 安裝 [`graphviz`](https://graphviz.gitlab.io/_pages/Download/Download_windows.html)
 
