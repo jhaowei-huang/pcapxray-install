@@ -5,8 +5,7 @@ Linux, Windows, MaxOS 中，安裝與使用 [Srinivas11789/PcapXray](https://git
 ### Windows
 1. 下載安裝 [`Python3.7.7`](https://www.python.org/downloads/release/python-377/)
 
-> 請注意，該工具不支援 Python 3.8 版本
-
+> 請注意，該工具不支援 Python 3.8 版本 <br>
 > 建議使用 [`Python3.7.7 - Windows x86-64 executable installer`](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)
 ![img](https://i.imgur.com/vNUSUlf.png)
 
@@ -58,6 +57,9 @@ python .\Source\main.py
 10. 按下 `Visualize!`，繪製分析結果
 ![img](https://i.imgur.com/n9g44so.png)
 
+### 備註
+
 分析的圖片可以直接去輸出路徑查看，程式會在輸出路徑產生 `Report` 資料夾
+
 ![img](https://i.imgur.com/i7fp5WJ.png)
 ![img](https://i.imgur.com/jCj7WoK.png)
