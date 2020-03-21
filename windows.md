@@ -3,6 +3,8 @@
 Linux, Windows, MaxOS 中，安裝與使用 [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray)
 
 ### Windows
+1. git clone 或直接下載 zip - [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray)
+
 1. 下載安裝 [`Python3.7.7`](https://www.python.org/downloads/release/python-377/)
 
 > 請注意，該工具不支援 Python 3.8 版本 <br>
@@ -39,11 +41,20 @@ pip3 install Pillow
 pip3 install -r requirements.txt
 ```
 
-6. 執行 `.\Source\main.py`
+6. 切換工作路徑至 `PcapXray`底下，執行 `.\Source\main.py`
 
 ```
-python .\Source\main.py
+python .\Source\main.py 
+
+or
+
+python3 .\Source\main.py
 ```
+
+> 部分使用者電腦中有多個版本的 `python` <br>
+> 分為 `python` 與 `python3` (通常 python 指的是 2.7.XXX 版本) <br>
+> 請利用 `python --version` 或是 `python3 --version` <br>
+> 確認哪個執行的版本為 `3.7.XXX`，就以該指令啟動 `.\Source\main.py` <br>
 
 7. 選擇輸入 `.pcap` 檔案路徑
 
