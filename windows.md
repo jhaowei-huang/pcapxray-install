@@ -32,18 +32,17 @@ pip3 install tk
 ```
 
 4. 使用 `pip3` 安裝 `Pillow`
-
 ```
 pip3 install Pillow
 ```
 
-5. 使用 `pip3` 安裝其他所需的套件 (若發生錯誤，請嘗試以`管理員身分`開啟 PowerShell 再執行一次指令)
-
+5. 切換工作路徑至 `PcapXray`底下，使用 `pip3` 安裝其他所需的套件
 ```
 pip3 install -r requirements.txt
 ```
+> 若發生錯誤，請嘗試以`管理員身分`開啟 `PowerShell` 再執行一次指令
 
-6. 切換工作路徑至 `PcapXray`底下，執行 `.\Source\main.py`
+6. `python` 執行 `.\Source\main.py`
 
 ```
 python .\Source\main.py 
