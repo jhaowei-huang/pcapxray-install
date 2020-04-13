@@ -12,7 +12,10 @@ sudo apt-get upgrade
 sudo apt-get install python3.7
 ```
 > 請注意，該工具不支援 Python 3.8 版本 <br>
-> 需要先更新 package list 確保 apt 安裝的套件是較新的
+> 其餘 python3 以上版本皆可，建議使用 `Python3.7` <br>
+> 部分 Linux 系統安裝完成後預先搭載 python3，請使用 `python3 --version` 或 `python --version` 檢查版本
+> 若想要使用 apt-get install 安裝較新版本的 python <br>
+> 可能需要先更新 package list 確保 apt 安裝的套件是較新的
 
 3. 使用 `apt` 安裝 `pip3`
 ```
