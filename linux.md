@@ -37,12 +37,12 @@ sudo apt-get install python3.7
   sudo apt-get install python3-pil python3-pil.imagetk
 ```
 
-7. 使用 `pip3` 安裝其他所需的套件
+7.切換工作路徑至 `PcapXray 專案` 底下，使用 `pip3` 安裝其他所需的套件
 ```
 pip3 install -r requirements.txt
 ```
 
-8. 切換工作路徑至 `PcapXray`底下，執行 `./Source/main.py`
+8. 在工作路徑 `PcapXray 專案` 底下，執行 `./Source/main.py`
 ```
 python3 ./Source/main.py 
 ```
