@@ -8,6 +8,7 @@ Linux, Windows, MaxOS 中，安裝與使用 [Srinivas11789/PcapXray](https://git
 1. 下載安裝 [`Python3.7.7`](https://www.python.org/downloads/release/python-377/)
 
 > 請注意，該工具不支援 Python 3.8 版本 <br>
+> 其他 python3 以上版本應該都支援
 > 建議使用 [`Python3.7.7 - Windows x86-64 executable installer`](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)
 ![img](https://i.imgur.com/vNUSUlf.png)
 
